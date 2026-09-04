@@ -28,10 +28,22 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-## What I work with
+## Selected projects
+
+### [Aibabai](https://aibabai.ru/)
+
+AI task marketplace and aggregator providing access to 192 AI models.
+
+### [Dialogo](https://dialogo.ru/)
+
+Online consultation platform connecting users with verified specialists through chat and video sessions.
+
+## Experience
+
+My work focuses on backend and full-stack web development:
 
 - Backend development and REST APIs
-- Web applications built with modern PHP frameworks
+- Web applications and marketplace platforms built with modern PHP frameworks
 - CMS development with 1C-Bitrix
 - Frontend interfaces with React and Vue.js
 - Services built with Go and Python/FastAPI
