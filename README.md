@@ -28,6 +28,13 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
+## Open-source portfolio
+
+| Project | Stack | Highlights |
+| --- | --- | --- |
+| [AI Model Router](https://github.com/ovverage/ai-model-router-laravel) | Laravel, PHP | Explainable model selection by capability, price, quality, and latency; tests, Docker, CI |
+| [Expert Matching API](https://github.com/ovverage/expert-matching-fastapi) | FastAPI, Python | Transparent expert ranking with synthetic data; OpenAPI, tests, Docker, CI |
+
 ## Selected projects
 
 ### [Aibabai](https://aibabai.ru/)
